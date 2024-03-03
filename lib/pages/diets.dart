@@ -168,7 +168,7 @@ class Diets extends StatelessWidget {
                                 style: TextStyle(
                                     fontSize: 16,
                                     fontWeight: FontWeight.bold,
-                                    color: Colors.red,
+                                    color: Colors.white,
                                     letterSpacing: 0),
                               ))
                         ],
